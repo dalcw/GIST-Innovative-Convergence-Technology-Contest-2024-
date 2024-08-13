@@ -1,0 +1,9 @@
+numpy
+pandas
+holidays
+matplotlib
+torch
+tqdm
+xgboost
+sklearn
+cvxpy
