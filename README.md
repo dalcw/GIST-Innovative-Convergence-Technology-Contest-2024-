@@ -10,6 +10,7 @@
 
 
 ## Requirements
+`pip install -r requirements.txt`
 ```
 numpy, pandas, holidays, matplotlib, torch, tqdm, xgboost, sklearn, cvxpy
 ```
